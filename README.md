@@ -7,14 +7,14 @@ I prefer to say 'WE' by the name of all the future contributors from developers,
 
 ## Support This Mission 
 
-<div align="center">
  <a href="https://www.buymeacoffee.com/itsmepal"> <img   src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itsmepal" /></a> 
-</div>  
+
 
 ---
 
 ## Connect with me 
 
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
   <a href="https://www.youtube.com/@ItsMe_Pal" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
@@ -24,7 +24,7 @@ I prefer to say 'WE' by the name of all the future contributors from developers,
   <a href="itsmepaal@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
-
+</div>
 
 <h2 align="left">Visits Count</h2>
 
