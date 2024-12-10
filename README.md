@@ -11,7 +11,7 @@ As for "It's me, Pal," I hope this phrase will be remembered as a testament to a
 ## Support This Mission
 
 If you'd like to support the work being done here, you can buy me a coffee!  
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/itsmepal)
+<h3>[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/itsmepal)</h3>
 
 ---
 
@@ -49,7 +49,7 @@ Feel free to connect with me through the following platforms:
 
 ## License
 
-This repository is open-source and is distributed under the [MIT License](LICENSE). Feel free to use and contribute to it.
+This repository is open-source, Feel free to use and contribute to it.
 
 ---
 
