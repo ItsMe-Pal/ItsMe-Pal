@@ -39,4 +39,3 @@ I prefer to say 'WE' by the name of all the future contributors from developers,
 
 Contributions are not only welcome but encouraged! If you have ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
 
-Let’s collaborate to make a difference. 🌍
