@@ -7,8 +7,9 @@ I prefer to say 'WE' by the name of all the future contributors from developers,
 
 ## Support This Mission 
 
+<div align="center">
  <a href="https://www.buymeacoffee.com/itsmepal"> <img   src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itsmepal" /></a> 
-
+</div>  
 
 ---
 
