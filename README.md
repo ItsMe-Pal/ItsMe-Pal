@@ -38,7 +38,7 @@ I prefer to say 'WE' by the name of all the future contributors from developers,
 Contributions are not only welcome but encouraged! If you have ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
 
 ## Important
-- All the donations are 55% for charity institutions and the 45% for the contributors from developers.
+- All the donations are 55% for charity institutions and 45% for the contributors from developers.
 - The only proof for you to know that your donation will be sent to the right place, is by setting with me a date n time for a live video call and we will settle which entity or individual the donation will goes for
 	- everything will be noted with date,time,names
 	- Everything will be recorded and proved
