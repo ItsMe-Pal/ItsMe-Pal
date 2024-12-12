@@ -1,3 +1,4 @@
+
 # Hi 👋, It's me pal 
 
 ## About This Repository
@@ -6,10 +7,8 @@ I prefer to say 'WE' by the name of all the future contributors from developers,
 ---
 
 ## Support This Mission 
-
 <div align="center">
- <a href="https://www.buymeacoffee.com/itsmepal"> <img   src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itsmepal" /></a> 
-</div>  
+ <a  href="https://www.buymeacoffee.com/itsmepal"> <img   src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="250" alt="itsmepal" /></a> </div>
 
 ---
 
@@ -23,11 +22,10 @@ I prefer to say 'WE' by the name of all the future contributors from developers,
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <a href="itsmepaal@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
-</div>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  /></a></div>
 
-<h2 align="left">Visits Count</h2>
+
+## Visits Count
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ItsMe-Pal/count.svg?"  />
@@ -38,4 +36,19 @@ I prefer to say 'WE' by the name of all the future contributors from developers,
 ## Contributions Welcome
 
 Contributions are not only welcome but encouraged! If you have ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
+
+## Important
+- All the donations are 55% for charity institutions and the 45% for the contributors from developers.
+- The only proof for you to know that your donation will be sent to the right place, is by setting with me a date n time for a live chat and we will settle which entity or individual the donation will goes for
+	- and there will be a live time next for all donators to watch the process of donation 
+	- everything will be noted with date,time,names
+	- Everything will be recorded and proved
+
+
+## !Important
+- I don't accept any kind of disrespect, if u think you can collaborate then welcome.
+- I don't care about any kind of disappointment, iam already dead inside.
+- I'm not that professional one, im learning everyday.
+- Everything here needs improvement and adjustment but i'm doing as possible as i can.
+ 
 
