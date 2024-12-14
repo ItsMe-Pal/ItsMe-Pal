@@ -1,5 +1,5 @@
 
-# Hi 👋, It's me pal 
+# , It's me pal 👋
 
 ## About This Repository
 I prefer to say 'WE' by the name of all the future contributors from developers, who will spend time working on 100% free n open-source projects, The first and only purpose of this repo is to help making the world better and collaborated, and as for 'its me pal' i hope someone remember this sentence after my death as a memory for any helpful work will be done</h3>
